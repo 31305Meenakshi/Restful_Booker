@@ -1,0 +1,80 @@
+[
+  {
+    "suiteName": "POST",
+    "testcase": "Post-200",
+    "httpMethod": "Post",
+    "endpoint": "booking",
+    "statusCode": 200,
+    "contentType": "application/json; charset=utf-8"
+  },
+  {
+    "suiteName": "GETAll",
+    "testcase": "GetAll-200",
+    "httpMethod": "GetAll",
+    "endpoint": "booking",
+    "statusCode": 200,
+    "contentType": "application/json; charset=utf-8"
+  },
+  {
+    "suiteName": "GETByName",
+    "testcase": "GetByName-200",
+    "httpMethod": "GetByName",
+    "endpoint": "booking",
+    "statusCode": 200,
+    "contentType": "application/json; charset=utf-8"
+  },
+  {
+    "suiteName": "GETByCheckIn/CheckOut",
+    "testcase": "GetByCheckIn/CheckOut-200",
+    "httpMethod": "GetByCheckIn/CheckOut",
+    "endpoint": "booking",
+    "statusCode": 200,
+    "contentType": "application/json; charset=utf-8"
+  },
+  {
+    "suiteName": "GETByID",
+    "testcase": "GetByID-200",
+    "httpMethod": "GetByID",
+    "endpoint": "booking/",
+    "statusCode": 200,
+    "contentType": "application/json; charset=utf-8"
+  },
+  {
+    "suiteName": "AUTH",
+    "testcase": "Auth-200",
+    "httpMethod": "AuthToken",
+    "endpoint": "auth",
+    "statusCode": 200,
+    "contentType": "application/json; charset=utf-8"
+  },
+  {
+    "suiteName": "PUT",
+    "testcase": "Put-200",
+    "httpMethod": "Put",
+    "endpoint": "booking/",
+    "statusCode": 200,
+    "contentType": "application/json; charset=utf-8"
+  },
+  {
+    "suiteName": "PATCH",
+    "testcase": "Patch-200",
+    "httpMethod": "Patch",
+    "endpoint": "booking/",
+    "statusCode": 200,
+    "contentType": "application/json; charset=utf-8"
+  },
+  {
+    "suiteName": "DELETE",
+    "testcase": "Delete-200",
+    "httpMethod": "Delete",
+    "endpoint": "booking/",
+    "statusCode": 201
+  },
+  {
+    "suiteName": "VALIDATEDELETE",
+    "testcase": "ValidateDelete-200",
+    "httpMethod": "ValidateDelete",
+    "endpoint": "booking/",
+    "statusCode": 404
+  }
+]

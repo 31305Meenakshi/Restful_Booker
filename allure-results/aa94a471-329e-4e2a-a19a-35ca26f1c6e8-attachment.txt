@@ -1,0 +1,2 @@
+GETALL
+2024-03-07 11:27:22:2722 info: Get All Ids

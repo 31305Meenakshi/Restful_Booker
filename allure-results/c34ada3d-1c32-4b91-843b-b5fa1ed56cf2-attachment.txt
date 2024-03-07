@@ -1,0 +1,2 @@
+GETBYCHECKIN
+2024-03-07 11:21:06:216 info: Get By CheckIn CheckOut

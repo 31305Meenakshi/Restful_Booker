@@ -1,0 +1,10 @@
+PATCH
+{
+  firstname: 'Celestino',
+  lastname: 'Quitzon',
+  totalprice: 1471,
+  depositpaid: true,
+  bookingdates: { checkin: '2024-03-07', checkout: '2024-03-12' },
+  additionalneeds: 'Breakfast'
+}
+2024-03-07 11:24:25:2425 info: Updated Existing Booking

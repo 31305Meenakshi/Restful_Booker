@@ -1,0 +1,10 @@
+PATCH
+{
+  firstname: 'Lamar',
+  lastname: 'Mosciski-Hettinger',
+  totalprice: 7067,
+  depositpaid: true,
+  bookingdates: { checkin: '2024-03-07', checkout: '2024-03-12' },
+  additionalneeds: 'Breakfast'
+}
+2024-03-07 12:14:35:1435 info: Updated Existing Booking

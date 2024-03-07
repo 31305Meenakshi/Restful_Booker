@@ -1,0 +1,13 @@
+POST
+{
+  bookingid: 1971,
+  booking: {
+    firstname: 'Ceasar',
+    lastname: 'Mayer',
+    totalprice: 9897,
+    depositpaid: true,
+    bookingdates: { checkin: '2024-03-07', checkout: '2024-03-12' },
+    additionalneeds: 'Breakfast'
+  }
+}
+2024-03-07 12:14:28:1428 info: Creating New Booking

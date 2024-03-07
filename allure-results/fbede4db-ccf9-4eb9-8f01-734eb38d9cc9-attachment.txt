@@ -1,0 +1,2 @@
+VALIDATE-DELETE
+2024-03-07 11:21:15:2115 info: validated Booking

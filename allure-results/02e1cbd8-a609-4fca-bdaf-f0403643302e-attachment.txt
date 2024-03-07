@@ -1,0 +1,13 @@
+POST
+{
+  bookingid: 1939,
+  booking: {
+    firstname: 'Edd',
+    lastname: 'Cremin-Bosco',
+    totalprice: 6320,
+    depositpaid: true,
+    bookingdates: { checkin: '2024-03-07', checkout: '2024-03-12' },
+    additionalneeds: 'Breakfast'
+  }
+}
+2024-03-07 11:24:17:2417 info: Creating New Booking
